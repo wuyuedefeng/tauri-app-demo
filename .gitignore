@@ -1,0 +1,4 @@
+!README.md
+.idea
+node_modules
+/src-tauri/target
